@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siva Prasad
 - 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning Reactjs,python
 - 📫 You can reach me at sivaprasad.connect@gmail.com
 
 <!---
